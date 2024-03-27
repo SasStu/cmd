@@ -1,5 +1,5 @@
 Command,Alias,Description,Keywords,Category,Url
-en,ad|aad|entra,Microsoft Entra,,Entra,https://entra.microsoft.com
+en,ad|aad|entra|eid,Microsoft Entra,,Entra,https://entra.microsoft.com
 azad,,Microsoft Entra (Azure Portal),,Entra,https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview?
 admin,,Microsoft 365 Admin,,Microsoft 365,https://admin.microsoft.com
 az,azure,Azure,,Azure,https://portal.azure.com
